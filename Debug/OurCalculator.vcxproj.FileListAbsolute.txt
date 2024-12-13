@@ -1,0 +1,9 @@
+C:\Users\karim\source\repos\OurCalculator\OurCalculator\Debug\OurCalculator.vcxproj.AssemblyReference.cache
+C:\Users\karim\source\repos\OurCalculator\OurCalculator\Debug\OurCalculator.MyForm.resources
+C:\Users\karim\source\repos\OurCalculator\OurCalculator\Debug\OurCalculator.vcxproj.GenerateResource.cache
+C:\Users\karim\Desktop\OurCalculator\OurCalculator\Debug\OurCalculator.vcxproj.AssemblyReference.cache
+C:\Users\karim\Desktop\OurCalculator\OurCalculator\Debug\OurCalculator.MyForm.resources
+C:\Users\karim\Desktop\OurCalculator\OurCalculator\Debug\OurCalculator.vcxproj.GenerateResource.cache
+C:\Users\kariem\Desktop\finaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal\OurCalculator\OurCalculator\Debug\OurCalculator.vcxproj.AssemblyReference.cache
+C:\Users\kariem\Desktop\finaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal\OurCalculator\OurCalculator\Debug\OurCalculator.MyForm.resources
+C:\Users\kariem\Desktop\finaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal\OurCalculator\OurCalculator\Debug\OurCalculator.vcxproj.GenerateResource.cache
